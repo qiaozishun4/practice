@@ -1,0 +1,140 @@
+body{
+   width: 85%;
+   margin: 15% auto;
+   text-align: center;
+   background-image: url('/static/images/欢乐盲盒.png') ;
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-color: #6772df;
+}
+a{
+   color:white;
+   letter-spacing: 3px;
+   font-size: 2.5vw;
+   font-weight: bolder;
+   text-decoration: none;
+}
+
+.row{
+    margin: auto auto;
+}
+
+.row:nth-of-type(1){
+    margin-top: 61.5%;
+}
+
+.row:nth-of-type(2){
+    margin-top: 26.5%;
+}
+     
+
+@media screen and (min-width: 1000px) {
+    body{
+        background: center 0 no-repeat;
+        background-image: url('/static/images/背景.png') ;
+        background-size: 70%;
+        width:60%;
+        background-color: #6772df;
+
+     }
+     a{
+       color:white;
+       letter-spacing: 3px;
+       font-size: 1.7vw;
+       font-weight: bolder;
+       text-decoration: none;
+    }
+    
+    .row:nth-of-type(1){
+        margin-top:  61.5%;
+    }
+    
+    .row:nth-of-type(2){
+        margin-top: 26.5%;
+    }
+     
+     
+     
+   
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{*/
+/*   width: 70%;*/
+/*   margin: 15% auto;*/
+/*   text-align: center;*/
+/*   background-image: url('/static/images/背景.png') ;*/
+/*   background-repeat: no-repeat;*/
+/*   background-size: 100%;*/
+/*   background-color: #cefbff;*/
+/*}*/
+/*a{*/
+/*   color:white;*/
+/*   letter-spacing: 3px;*/
+/*   font-size: 2vw;*/
+/*   font-weight: bolder;*/
+/*   text-decoration: none;*/
+/*}*/
+
+/*.row{*/
+/*    margin: auto auto;*/
+/*}*/
+
+/*.row:nth-of-type(1){*/
+/*    margin-top: 60%;*/
+/*}*/
+
+/*.row:nth-of-type(2){*/
+/*    margin-top: 23.8%;*/
+/*}*/
+     
+
+/*@media screen and (min-width: 1000px) {*/
+/*    body{*/
+/*        background: center 0 no-repeat;*/
+/*        background-image: url('/static/images/bg1.png') ;*/
+/*        background-size: 70%;*/
+/*        width:50%;*/
+/*        background-color: #cefbff;*/
+
+/*     }*/
+/*     a{*/
+/*       color:white;*/
+/*       letter-spacing: 3px;*/
+/*       font-size: 1.5vw;*/
+/*       font-weight: bolder;*/
+/*       text-decoration: none;*/
+/*    }*/
+    
+/*    .row:nth-of-type(1){*/
+/*        margin-top: 59%;*/
+/*    }*/
+    
+/*    .row:nth-of-type(2){*/
+/*        margin-top: 24%;*/
+/*    }*/
+     
+     
+     
+   
+/* }*/

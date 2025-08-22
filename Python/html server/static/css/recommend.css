@@ -1,0 +1,15 @@
+body{
+  background-image: url('/static/images/bg5.png');
+  background-size:100%;
+  background-repeat: no-repeat;
+  text-align: center;
+  width:90%;
+  margin: 20px auto;
+}
+
+h2{
+    margin-top: 20px;
+}
+.carousel{
+    margin-top:20%;
+}
